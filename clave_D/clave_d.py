@@ -149,5 +149,5 @@ github_<nombre>_<codigo>.txt y subirlo a moodle
 
 # github url-->
 def getGithubUrl():
-    result = "link"
+    result = "https://github.com/RodrigoSolorzano/Examen1.git"
     return result
